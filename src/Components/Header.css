@@ -1,6 +1,12 @@
 header {
+    position: sticky;
     background-color: var(--background);
     color: white;
     text-align: center;
     align-items: center;
+}
+
+h1 {
+    font-size: 5rem;
+    padding: .25rem;
 }
