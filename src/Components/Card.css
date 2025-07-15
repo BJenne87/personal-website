@@ -1,0 +1,14 @@
+.card {
+    flex: 1;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(90, 78, 124, 0.1);
+    padding: 16px;
+    margin: 16px;
+    background-color: #fff;
+    transition: box-shadow 0.3s ease;
+}
+
+.card:hover {
+    box-shadow: 0 8px 20px rgba(90, 78, 124, .15);
+}
