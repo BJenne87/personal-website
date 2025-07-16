@@ -5,8 +5,10 @@ A copy of all the files used in my personal website, for anyone who is intereste
 This will be a timeline of some of the goals I had, and an idealized timeline for reference and goal tracking.
 - [X] Have a static site in HTML
 - [X] convert the static site to basic react by 8/2025
-- [] Add some more content and stylize the page by 8/2025
+- [X] Add some more content and stylize the page by 8/2025 (keep working)
+- [] Stylize the page using an external library like tailwind, maybe add Sass
 
 ### Current Learning Goals
 - Keep learning react
-- Figure out best practices for components
+- Figure out best practices for 
+- Learn how to add modern css styling
