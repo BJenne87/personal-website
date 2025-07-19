@@ -13,14 +13,14 @@ const Body = () => {
 
         </div>
         <hr className="my-2"/>
-        <h2>My Interests</h2>
+        <h2 className="p-2">My Interests</h2>
         <div className="flex flex-col md:flex-row">
             {Hobbies.map((item,index) => (
                 <Card key={index} title={item.title} body={item.body}/>
             ))}
         </div>
         <hr/>
-        <h2>Contact Me!</h2>
+        <h2 className="p-2">Contact Me!</h2>
         <Links/>
         </> 
     );
