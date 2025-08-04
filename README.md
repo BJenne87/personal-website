@@ -12,3 +12,5 @@ This will be a timeline of some of the goals I had, and an idealized timeline fo
 - Keep learning react
 - Figure out best practices for components
 - Learn how to add modern css styling
+
+Update: The site is in a spot I'm comfortable with for now. I'll be taking a break to work on other goals in the meantime, hopefully other projects will show up in the mean time
