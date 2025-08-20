@@ -25,11 +25,12 @@ const Carousel = ({ data }) => {
   };
 
   return (
-    <div className="flex flex-col items-center md:w-3/5 md:mx-auto">
+    <div className="flex flex-col items-center h-3/5 w-3/5 md:mx-auto">
       {/* Render the current card */}
       <Card
         title={data[currentIndex].title}
         body={data[currentIndex].body}
+        source={data[currentIndex].source}
       />
 
       {/* Navigation buttons */}
